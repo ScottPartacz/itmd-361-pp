@@ -14,7 +14,11 @@ Write the URL for your personal repository here: https://github.com/ScottPartacz
 
 3. Each member of the group should clone their forked copy of the repository to his/her computer. Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run `git remote add group` followed by the URL for your group’s repository.
 
-Write the output of `git remote -v` from your copy of the forked repository here:
+Write the output of `git remote -v` from your copy of the forked repository here:  
+git remote -v
+origin  https://github.com/ScottPartacz/project-3 (fetch)
+origin  https://github.com/ScottPartacz/project-3 (push)
+
 
 4. Finally, each group member should add to the `README.md` file his/her name, and a brief few sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to pull from the remote repo (`git pull group master`) to get any other group members’ names and strengths. Add and commit your own work, and push to your own repository (`git push origin master`).
 
