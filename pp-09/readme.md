@@ -10,7 +10,7 @@ Write the URL for your shared repository here: https://github.com/itmd361-scott-
 
 2. Each member of the group should fork the repository (including the group member who’s account contains the group repository).
 
-Write the URL for your personal repository here:
+Write the URL for your personal repository here: https://github.com/ScottPartacz/project-3
 
 3. Each member of the group should clone their forked copy of the repository to his/her computer. Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run `git remote add group` followed by the URL for your group’s repository.
 
